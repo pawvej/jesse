@@ -7,3 +7,14 @@
     box-shadow: 0 5px 0 #000;
 
 }
+
+button {
+    background-color: #f0f0f0;
+    color: black;
+    padding: 10px 25px;
+    border: 0px;
+    font-size: 18px;
+    font-weight: 600;
+   
+    
+}
